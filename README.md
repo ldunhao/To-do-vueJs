@@ -1,5 +1,7 @@
-# todo
-
+# To-do
+```
+A simple To-do application using vue.js
+```
 ## Project setup
 ```
 npm install
